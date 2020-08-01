@@ -143,7 +143,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .feature span {
 	font-size: 4em;
-    color: #fbd46d;
+    color: #4f8a8b;
 }
 
 .speaker .feature {
@@ -184,7 +184,7 @@ a span.ti-twitter-alt {
 }
 
 .tickets {
-	background-color: #fcd93b;
+	background-color: #fbd46d;
 }
 .tickets .price {
 	font-size: 4em;
@@ -244,8 +244,8 @@ ul.footer-menu li a:hover {
 
 
 .contact {
-    background-color: #3a3a3a;
-    color: #fff;
+    background-color: #eeeeee;
+    color: #222831;
     padding: 1em;
 }
 .contact h3 {
